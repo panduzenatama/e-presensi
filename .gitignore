@@ -6,6 +6,9 @@ application/cache/*
 application/logs/*
 !application/logs/index.html
 
+application/sessions/*
+!application/sessions/index.html
+
 !application/*/.htaccess
 
 user_guide_src/build/*
