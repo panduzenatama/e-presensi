@@ -1,0 +1,41 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+
+# Composer dependencies (install via `composer install`)
+/vendor/
+
+# Uploaded content (keep placeholder index.html)
+assets/app-assets/user/*
+!assets/app-assets/user/index.html
+assets/app-assets/izin/*
+!assets/app-assets/izin/index.html
+assets/app-assets/qr/img/*
+!assets/app-assets/qr/img/index.html
+assets/app-assets/qr/*.log
+assets/app-assets/qr/*.png
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
