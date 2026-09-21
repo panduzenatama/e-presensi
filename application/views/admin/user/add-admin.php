@@ -56,7 +56,7 @@
                     <div class="card-body">
                         <h3 class="card-title font-16 mt-0">WARNING!</h3>
                         <p>Pastikan untuk tidak memasukan data yang sama agar tidak terjadi error atau malfunction kedepannya</p>
-                        <span class="blockquote-footer">Abduloh Malela</span>
+                        <span class="blockquote-footer">E-Presensi</span>
                     </div>
                 </div>
             </div>

@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost:8000/e-presensi/';
-// $config['base_url'] = 'https://192.168.43.132/e-presensi-abdul/';
+// $config['base_url'] = 'https://192.168.43.132/e-presensi-system/';
 
 /*
 |--------------------------------------------------------------------------
@@ -381,7 +381,7 @@ $config['encryption_key'] = 'e-presensi-2026-super-secret-key-9f3a7c1e';
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 7200;
-$config['sess_save_path'] = NULL;
+$config['sess_save_path'] = FCPATH . 'application/sessions';
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;

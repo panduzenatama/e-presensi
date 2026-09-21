@@ -41,7 +41,7 @@ class Pdf extends CI_Controller
             <tr border="0">
                 <td width="33%" style="text-align: left; border: none;">{DATE j-m-Y}</td>
                 <td width="33%" align="center" style="border: none;">{PAGENO}/{nbpg}</td>
-                <td width="33%" style="text-align: right; border: none;">E-Presensi by Abduloh</td>
+                <td width="33%" style="text-align: right; border: none;">E-Presensi Systemoh</td>
             </tr>
         </table>');  // Note that the second parameter is optional : default = 'O' for ODD
 
@@ -49,7 +49,7 @@ class Pdf extends CI_Controller
         <table border="0" width="100%" style="vertical-align: bottom; font-family: serif; 
             font-size: 8pt; color: #000000; font-weight: bold; font-style: italic;">
             <tr border="0">
-                <td width="33%"><span style="font-weight: bold; font-style: italic;">E-Presensi By Abduloh/span></td>
+                <td width="33%"><span style="font-weight: bold; font-style: italic;">E-Presensi System/span></td>
                 <td width="33%" align="center" style="font-weight: bold; font-style: italic;">{PAGENO}/{nbpg}</td>
                 <td width="33%" style="text-align: left; ">{DATE j-m-Y}</td>
             </tr>
@@ -84,7 +84,7 @@ class Pdf extends CI_Controller
             </head>
 
             <body>
-            <h2 style="text-align: center;">E-PRESENSI BY ABDULOH<br><small>Built With Codeignite 3 & PHP 7</small></h2>
+            <h2 style="text-align: center;">E-PRESENSI BY systemOH<br><small>Built With Codeignite 3 & PHP 7</small></h2>
                 <p style="text-align: center;">jln. Nakula RT017 RW 005 Pasirjaya Karawang</p>
                 <hr>
                 <center>
@@ -221,7 +221,7 @@ class Pdf extends CI_Controller
             <tr border="0">
                 <td width="33%" style="text-align: left; border: none;">{DATE j-m-Y}</td>
                 <td width="33%" align="center" style="border: none;">{PAGENO}/{nbpg}</td>
-                <td width="33%" style="text-align: right; border: none;">E-Presensi by Abduloh</td>
+                <td width="33%" style="text-align: right; border: none;">E-Presensi Systemoh</td>
             </tr>
         </table>');  // Note that the second parameter is optional : default = 'O' for ODD
 
@@ -229,7 +229,7 @@ class Pdf extends CI_Controller
         <table border="0" width="100%" style="vertical-align: bottom; font-family: serif; 
             font-size: 8pt; color: #000000; font-weight: bold; font-style: italic;">
             <tr border="0">
-                <td width="33%"><span style="font-weight: bold; font-style: italic;">E-Presensi By Abduloh/span></td>
+                <td width="33%"><span style="font-weight: bold; font-style: italic;">E-Presensi System/span></td>
                 <td width="33%" align="center" style="font-weight: bold; font-style: italic;">{PAGENO}/{nbpg}</td>
                 <td width="33%" style="text-align: left; ">{DATE j-m-Y}</td>
             </tr>
@@ -264,7 +264,7 @@ class Pdf extends CI_Controller
             </head>
 
             <body>
-                <h2 style="text-align: center;">E-PRESENSI BY ABDULOH<br><small>Built With Codeignite 3 & PHP 7</small></h2>
+                <h2 style="text-align: center;">E-PRESENSI BY systemOH<br><small>Built With Codeignite 3 & PHP 7</small></h2>
                 <p style="text-align: center;">jln. Nakula RT017 RW 005 Pasirjaya Karawang</p>
                 <hr>
                 <p style="text-align: center; font-weight: bold;">QR Code Presensi ' . $event->nama_event . '</p>

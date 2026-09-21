@@ -67,7 +67,7 @@
                 <div class="card m-b-30">
                     <div class="card-body">
                         <h3 class="card-title font-16 mt-0">WARNING!</h3>
-                        <span class="blockquote-footer">Abduloh Malela</span>
+                        <span class="blockquote-footer">E-Presensi</span>
                     </div>
                 </div>
             </div> -->

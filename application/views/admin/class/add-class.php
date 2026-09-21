@@ -56,7 +56,7 @@
                         <p>Didalam Nomor Induk Siswa terdapat kode kelas, jadi misalkan <strong>2011300001</strong> maka dibaca : <br> 20 = Tahun Masuk<br>11 = Bulan Masuk<br>300 = Kode Kelas<br>001 = nomor urut</p>
                         <p>Penjelasan diatas merupakan contoh. Bisa di sesuaikan dengan lembaga pendidikan yang terkait</p>
                         <p>Diharuskan untuk memasukkan kode kelas yang berbeda untuk mencegah erro atau malfunction di kedepannya.</p>
-                        <span class="blockquote-footer">Abduloh Malela</span>
+                        <span class="blockquote-footer">E-Presensi</span>
                     </div>
                 </div>
             </div>

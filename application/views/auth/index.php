@@ -10,9 +10,9 @@
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
     <!-- ===== SWAL JS ===== -->
-    <script src="<?= base_url('assets/app-assets/template/presensi-abdul/plugins/swal/sweetalert2.all.js'); ?>"></script>
+    <script src="<?= base_url('assets/app-assets/template/presensi-system/plugins/swal/sweetalert2.all.js'); ?>"></script>
 
-    <title>E-Presensi | by Abdul</title>
+    <title>E-Presensi | Login</title>
 
     <!--===== MAIN CSS =====-->
     <style>
@@ -292,7 +292,7 @@
 
             <div class="login__forms">
                 <form action="" method="POST" class="login__registre <?= $login_registre; ?>" id="login-in">
-                    <!-- <div class="copyright"><small><strong>E-Presensi | By Abduloh Malela</strong></small></div> -->
+                    <!-- <div class="copyright"><small><strong>E-Presensi | By E-Presensi</strong></small></div> -->
                     <h1 class="login__title">Sign In</h1>
 
                     <div class="login__box">
@@ -317,7 +317,7 @@
 
                 <form action="<?= base_url('auth/registration'); ?>" method="POST" class="login__create <?= $login_create; ?>" id="login-up">
                     <div class="login__create_inside">
-                        <!-- <div class="copyright"><small><strong>E-Presensi | By Abduloh Malela</strong></small></div> -->
+                        <!-- <div class="copyright"><small><strong>E-Presensi | By E-Presensi</strong></small></div> -->
                         <h1 class="login__title">Create Account</h1>
 
                         <div class="login__box">

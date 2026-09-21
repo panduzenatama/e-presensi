@@ -21,7 +21,7 @@
                 <div class="card-body">
                     <h3 class="card-title font-16 mt-0">WARNING!</h3>
                     <p>Mohon Untuk Mengisi Data dengan benar, terutama data yang sensitif seperi Nomor Induk. Ini bertujuan untuk mencegah malfunction atau error kedepannya</p>
-                    <span class="blockquote-footer">Abduloh Malela</span>
+                    <span class="blockquote-footer">E-Presensi</span>
                 </div>
             </div>
         </div>

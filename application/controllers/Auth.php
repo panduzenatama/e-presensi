@@ -210,7 +210,7 @@ class Auth extends CI_Controller
                 <div style="font-family: `Segoe UI`, Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; color: #1C3FAA; font-weight: bold;">
                     E-PRESENSI
                 </div>
-                <small style="color: #000;">V 1.0 by Abduloh</small>
+                <small style="color: #000;">V 1.0 Systemoh</small>
                 <br>
                 <p style="font-family: `Segoe UI`, Tahoma, Geneva, Verdana, sans-serif; color: #000;">Hallo ' . $this->input->post('name', true) . ' <br>
                     <span style="color: #000;">Your account successfully added, click the button to verify your account</span></p>

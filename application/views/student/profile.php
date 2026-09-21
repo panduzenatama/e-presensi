@@ -21,7 +21,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h4 class="card-title font-16 mt-0"></h4>
-                        <img src="<?= base_url('assets/app-assets/user/') . $siswa->gambar; ?>" alt="E-Presensi Abduloh" class="img-thumbnail">
+                        <img src="<?= base_url('assets/app-assets/user/') . $siswa->gambar; ?>" alt="E-Presensi System" class="img-thumbnail">
                     </div>
                 </div>
             </div>

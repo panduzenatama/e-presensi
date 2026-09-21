@@ -22,7 +22,7 @@
                     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                         <span aria-hidden="true">×</span>
                     </button>
-                    <strong>Berhasil Login!.</strong> Selemat Datang di E-Presensi Abdul
+                    <strong>Berhasil Login!.</strong> Selemat Datang di E-Presensi system
                 </div>
             </div>
         </div>
